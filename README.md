@@ -7,5 +7,3 @@ The page includes four main sections and a footer. Images and content can be cus
 
 All code is in a single CSS file (`style.css`) and the HTML file (`index.html`). This project demonstrates skills in HTML structure, CSS styling, and basic web layout using flexbox.  
 
-## Author
-**Michael Escalona** – [GitHub Profile](https://github.com/quietwas)
