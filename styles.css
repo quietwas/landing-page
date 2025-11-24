@@ -146,3 +146,12 @@ button {
     color: white;
 }
 
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+
