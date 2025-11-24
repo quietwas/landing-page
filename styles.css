@@ -1,1 +1,80 @@
 /* styles.css */
+
+* {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    font-size: 18px;
+    margin-right: 12px;
+}
+
+button {
+    border-radius: 10px;
+    border-style: none;
+    width: 120px;
+    color: #E5E7EB;
+    padding: 8px;
+    background-color: #3882F6;
+    margin-top: 14px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    gap: 325px;
+}
+
+.header .text {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.hero {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+    gap: 32px;
+}
+
+.hero .main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    max-width: 450px;
+}
+
+.hero .text {
+    font-size: 18px;
+    color: #E5E7EB;
+    max-width: 450px;
+}
+
+.image {
+    background-color: rgb(135, 132, 132);
+    min-width: 450px;
+    height: 200px;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
