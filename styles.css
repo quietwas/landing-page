@@ -134,3 +134,15 @@ button {
     text-align: right;
     font-weight: bold;
 }
+
+.call-to-action {
+    margin: 112px;
+    padding: 64px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
