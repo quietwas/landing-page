@@ -78,3 +78,36 @@ button {
     justify-content: center;
     align-items: center;
 }
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+
+.info .text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.info .cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    text-align: center;
+    gap: 64px;
+    padding: 32px;
+    color: gray;
+}
+
+.square {
+    border: 3px solid #3882F6;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 8px;
+}
