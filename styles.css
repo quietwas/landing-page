@@ -111,3 +111,26 @@ button {
     height: 150px;
     margin-bottom: 8px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    height: 417px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote .text {
+    width: 870px;
+    font-weight: 300;
+    color:  #1F2937;
+}
+
+.quote .author {
+    width: 800px;
+    font-size: 18px;
+    text-align: right;
+    font-weight: bold;
+}
